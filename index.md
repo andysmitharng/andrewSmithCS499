@@ -1,4 +1,4 @@
-## Andrew Smith CS-499-X3487 Tactile Theme
+## Andrew Smith CS-499-X3487
 
 You can use the [editor on GitHub](https://github.com/andysmitharng/andrewSmithCS499/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
