@@ -5,7 +5,7 @@
      I have learned a lot as I worked through my Computer Science program. Some of my education came from course work, some of it came 
 from working on  my own projects. When I first decided to major in Computer Science, I wasn’t really sure what I ultimately wanted 
 to do. As I started to develop basic programs, work with databases, and create application on both the back and front end, I was 
-able to develop an idea of my strengths, weaknesses, and interest. I found that using creative problem solving, through the backend 
+able to develop an idea of my strengths, weaknesses, and interests. I found that using creative problem solving, through the backend 
 development of applications, was what I enjoyed the most. Having spent most of my adult life in the military, adding in a team 
 environment really allowed me to excel. By working with others, both in class and outside of it, I was able to increase my skill set 
 in software design, databases, algorithms, and security. This all really came together while working with Amazon Web Services (AWS). 
@@ -21,7 +21,7 @@ company database. It also uses SQLite to store and query user data and campgroun
 user permissions and there is social media integration through the ability to post campground experiences on Facebook. The second 
 artifact is a program that loads in a file containing eBay bids run by a local government. The program allows a user to search the bids 
 in order to do an audit. They can search by government department or by a specific bid. All of the data for each bid is stored in a 
-binary search tree to make searching as fast as possible. The search tree uses nodes to store information and point to the next node. 
+binary search tree to make searching as fast as possible. The search tree uses nodes to store information and pointers to indicate the next node. 
 ```
 
 ## Artifacts
