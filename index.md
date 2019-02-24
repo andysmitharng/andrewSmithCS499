@@ -29,7 +29,7 @@ binary search tree to make searching as fast as possible. The search tree uses n
 #### Code Review
 This code review reperesents my ability to create a present a presentation to a team. It is a review of some of my projects and their planned enhancements
 
-[Code Review](https://bitbucket.org/andrew_smith13/code-review/downloads/)
+[Code Review Link](https://bitbucket.org/andrew_smith13/code-review/downloads/)
 
 #### Software Design and Databases
 
@@ -74,7 +74,7 @@ send it to a different class to be displayed.
 
 ```
 
-[Campsite Locator Application](https://bitbucket.org/andrew_smith13/androidapplication/downloads/)
+[Campsite Locator Application Link](https://bitbucket.org/andrew_smith13/androidapplication/downloads/)
 
 #### Algorithms and Data Structures
 
@@ -100,4 +100,4 @@ everything else ran smoothly. It took me a while of trying to make the binary se
 to a vector. I learned to look at more than one approach, instead of just trying to make the one I had work. 
 ```
 
-[Government Auction Audit Tool](https://bitbucket.org/andrew_smith13/ebay-search/downloads/)
+[Government Auction Audit Tool Link](https://bitbucket.org/andrew_smith13/ebay-search/downloads/)
